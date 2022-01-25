@@ -1,4 +1,7 @@
 Arkanoid
+---
+![Preview](./preview.jpeg)
+
 ========
 Jogo construído utilizando o Unity Engine
 -----------------------------------------
