@@ -12,7 +12,7 @@ Motivação
 Sempre tive a curiosidade de descobrir como os jogos são feitos. Desse modo, acabei me deparando com o Unity, uma ferramenta que me possibilitou descobrir mais sobre "bastidores" de desenvolvimento de jogos e ainda, exercitar meus conhecimentos em C#.
 
 
-Teste a versão web
+Jogue a versão web
 ------------------
 
 Criei uma versão para web que está disponível em [simmer.io](https://simmer.io/@GabrielMS/arkanoid).
